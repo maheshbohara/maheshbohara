@@ -11,7 +11,6 @@ Laravel · WordPress · React / Next.js · Agentic AI workflows
 [![Website](https://img.shields.io/badge/maheshbohara.com.np-6d4aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maheshbohara.com.np)
 [![Book a call](https://img.shields.io/badge/Book_a_call-111111?style=for-the-badge&logo=caldotcom&logoColor=white)](https://cal.com/maheshbohara/introduction-meet-greet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshbohara7/)
-[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010ed0e1892e0a7561)
 
 </div>
 
@@ -20,7 +19,7 @@ Laravel · WordPress · React / Next.js · Agentic AI workflows
 ### About
 
 - Senior full-stack developer with **10+ years** building production platforms
-- Worked with remote teams in **Australia** and **Hong Kong**; freelancing since 2024
+- Worked with teams and clients in **Canada**, the **USA**, **Australia**, **Hong Kong** and more around the world; freelancing since 2024
 - Laravel & PHP APIs, WordPress platforms (custom plugins, Gutenberg blocks), React / Next.js / Vue front ends
 - The unglamorous parts too: slow queries, caching, queues, tests and careful code review
 - Agentic workflows with **Claude**, **Cursor** and **custom MCP servers**
