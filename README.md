@@ -8,9 +8,9 @@
 
 Laravel · WordPress · React / Next.js · Agentic AI workflows
 
-[![Website](https://img.shields.io/badge/maheshbohara.com.np-6d4aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maheshbohara.com.np)
-[![Book a call](https://img.shields.io/badge/Book_a_call-111111?style=for-the-badge&logo=caldotcom&logoColor=white)](https://cal.com/maheshbohara/introduction-meet-greet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshbohara7/)
+<a href="https://maheshbohara.com.np"><img src="assets/website.svg" alt="maheshbohara.com.np" height="36" /></a>
+<a href="https://www.linkedin.com/in/maheshbohara7/"><img src="assets/linkedin.svg" alt="LinkedIn" height="36" /></a>
+<a href="https://cal.com/maheshbohara/introduction-meet-greet"><img src="assets/book-a-call.svg" alt="Book a call" height="36" /></a>
 
 </div>
 
