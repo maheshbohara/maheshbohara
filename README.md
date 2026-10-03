@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:a78bfa,50:6d4aed,100:1e1048&text=Mahesh%20Bohara&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20AI%20Developer%20%C2%B7%20Kathmandu&descAlignY=60&descSize=16" alt="Mahesh Bohara — Senior Full-Stack & AI Developer" width="100%" />
+<h1>Mahesh Bohara</h1>
+
+<h3>Senior Full-Stack &amp; AI Developer · Kathmandu, Nepal</h3>
 
 **I build the part you see, and the part that keeps it running.**
 
