@@ -23,14 +23,6 @@ Laravel · WordPress · React / Next.js · Agentic AI workflows
 - Agentic workflows with **Claude**, **Cursor** and **custom MCP servers**
 - Open to freelance projects, contract roles and full-time remote
 
-### Toolkit
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,fastapi,graphql,wordpress&theme=dark" alt="Backend" /><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,figma&theme=dark" alt="Frontend" /><br />
-  <img src="https://skillicons.dev/icons?i=aws,docker,redis,cloudflare,mysql,postgres,mongodb&theme=dark" alt="Infrastructure" />
-</p>
-
 ### What I do
 
 | | |
