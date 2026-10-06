@@ -8,7 +8,6 @@
 
 Laravel · WordPress · React / Next.js · Agentic AI workflows
 
-<a href="https://maheshbohara.com.np"><img src="assets/website.svg" alt="maheshbohara.com.np" height="36" /></a>
 <a href="https://www.linkedin.com/in/maheshbohara7/"><img src="assets/linkedin.svg" alt="LinkedIn" height="36" /></a>
 <a href="https://cal.com/maheshbohara/introduction-meet-greet"><img src="assets/book-a-call.svg" alt="Book a call" height="36" /></a>
 
